@@ -1,0 +1,7 @@
+# Virtual environment & IDE settings
+.idea/
+VirtualEnvironment/
+venv/
+ENV/
+__pycache__/
+*.pyc
